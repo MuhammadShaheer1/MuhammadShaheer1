@@ -1,29 +1,23 @@
-![logo](https://github.com/MuhammadShaheer1/MuhammadShaheer1/blob/main/banner.png)
+<H1>👋 Hi, I’m Shaheer.</H1>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p>As an Electrical Engineer specializing in Embedded Systems, I am keenly interested in developing innovative hardware and software solutions. I am passionate about working on cutting-edge technologies, particularly in IoT and Artificial Intelligence.</p>
+<p>Over the past year, I have gained valuable industry experience working on several projects ranging from developing a milk-quality sensing machine, Smart FinTech Handheld Devices, LLMs for Business Productivity, and GNSS Receivers. I am committed to designing, developing, and deploying embedded solutions that drive innovation.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshaheer1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshaheer1" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad shaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad shaheer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammadshaheer75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammadshaheer75" height="30" width="40" /></a>
-<a href="https://discord.gg/602829448177516555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="602829448177516555" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>   </p>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaheer1&show_icons=true&locale=en&layout=compact" alt="muhammadshaheer1"/></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadshaheer1&show_icons=true&locale=en" alt="muhammadshaheer1"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshaheer1&" alt="muhammadshaheer1"/></p>-->
-<h2> GitHub Stats <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width=48px></h2>
-<p align="left">
-  <a href="https://github.com/MuhammadShaheer1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaheer1&show_icons=true&locale=en&layout=compact" />
-   
-   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadshaheer1&show_icons=true&locale=en" alt="muhammadshaheer1" />
-  </a>
-</p>
-
+<div>
+  <h2>🎓 Education</h2>
+  <ul>
+    <li>
+      <strong>National University of Sciences and Technology</strong><br>
+      Bachelor of Electrical Engineering<br>
+      CGPA: 3.65 out of 4<br>
+      Relevant Coursework: Embedded System Design, Computer Architecture and Organization, Digital System Design, Microprocessor Systems, Digital Logic Design, C Programming.<br>
+    </li><br>
+  </ul>
+  <h2>💻 Skills</h2>
+  <ul>
+    <li>Technical Skills: Embedded C/C++, Verilog, Assembly Language, MATLAB,  Python, Machine Learning</li>
+    <li>Tools: IAR Embedded Workbench, Intel Quartus Prime, ModelSIM, Simulink, VS Code, Eclipse</li>
+    <li>Hardware Skills: FPGA, Raspberry Pi, STM32, ESP32, Adalm Pluto</li>
+    <li>Machine Learning: scikit-learn, pandas, matplotlib, numpy, neural networks, graph neural networks, large language models</li>
+  </ul>
+</div>
