@@ -18,6 +18,6 @@
     <li>Technical Skills: Embedded C/C++, Verilog, Assembly Language, MATLAB,  Python, Machine Learning</li>
     <li>Tools: IAR Embedded Workbench, Intel Quartus Prime, ModelSIM, Simulink, VS Code, Eclipse</li>
     <li>Hardware Skills: FPGA, Raspberry Pi, STM32, ESP32, Adalm Pluto</li>
-    <li>Machine Learning: scikit-learn, pandas, matplotlib, numpy, neural networks, graph neural networks, large language models</li>
+    <li>Machine Learning: Scikit-Learn, Pandas, Matplotlib, Numpy, Neural Networks, Graph Neural Networks, Large Language Models</li>
   </ul>
 </div>
