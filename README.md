@@ -5,7 +5,7 @@
 
 <div>
   <h2>🎓 Education</h2>
-      <strong>National University of Sciences and Technology</strong><br>
+      <strong>National University of Sciences and Technology, Islamabad, Pakistan</strong><br>
       Bachelor of Electrical Engineering<br>
       CGPA: 3.65 out of 4<br>
       Relevant Coursework: Embedded System Design, Computer Architecture and Organization, Digital System Design, Microprocessor Systems, Digital Logic Design, C Programming.<br>
