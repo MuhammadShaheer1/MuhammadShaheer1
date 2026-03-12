@@ -1,4 +1,4 @@
-<H1>👋 Hi, I’m Shaheer.</H1>
+<!-- <H1>👋 Hi, I’m Shaheer.</H1>
 
 <p>As an Electrical Engineer specializing in Embedded Systems, I am keenly interested in developing innovative hardware and software solutions. I am passionate about working on cutting-edge technologies, particularly in IoT and Artificial Intelligence.</p>
 <p>Over the past year, I have gained valuable industry experience working on several projects ranging from developing a milk-quality sensing machine, Smart FinTech Handheld Devices, LLMs for Business Productivity, and GNSS Receivers. I am committed to designing, developing, and deploying embedded solutions that drive innovation.</p>
@@ -17,4 +17,4 @@
     <li>Hardware Skills: FPGA, Raspberry Pi, STM32, ESP32, Adalm Pluto</li>
     <li>Machine Learning: Scikit-Learn, Pandas, Matplotlib, Numpy, Neural Networks, Graph Neural Networks, Large Language Models</li>
   </ul>
-</div>
+</div> -->
